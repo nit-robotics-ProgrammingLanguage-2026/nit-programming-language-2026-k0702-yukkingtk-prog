@@ -1,4 +1,3 @@
-
 #include <stdio.h>
 
 int func3(int a, int b);
